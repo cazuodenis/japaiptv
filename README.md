@@ -16,8 +16,6 @@
 
 
 
-
-
 #EXTM3U
 
 
@@ -1325,8 +1323,6 @@ http://51.79.39.236:80/renanfds/48793390/604854
 http://51.79.39.236:80/renanfds/48793390/604855
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="https://prostore.app/logos/gnt.png" group-title="CANAIS | 4K",GNT 4K
 http://51.79.39.236:80/renanfds/48793390/100334
-#EXTINF:-1 tvg-id="golf.br" tvg-name="GOLF CHANNEL HD¹" tvg-logo="https://e7.pngegg.com/pngimages/90/727/png-clipart-golf-channel-on-nbc-logo-trademark-golf-player-game-trademark.png" group-title="CANAIS | ESPORTES PPV",GOLF CHANNEL HD¹
-http://51.79.39.236:80/renanfds/48793390/111739
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD¹" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY SD¹
 http://51.79.39.236:80/renanfds/48793390/4360
 #EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD²" tvg-logo="https://prostore.app/logos/iddiscovery.png" group-title="CANAIS | DISCOVERY",INVESTIGAÇÃO DISCOVERY SD²
@@ -1990,30 +1986,8 @@ http://51.79.39.236:80/renanfds/48793390/614361
 http://51.79.39.236:80/renanfds/48793390/618918
 #EXTINF:-1 tvg-id="" tvg-name="XXX SURUBAS CASEIRAS" tvg-logo="https://prostore.app/logos/adultos.png" group-title="CANAIS | ADULTO",SURUBAS CASEIRAS
 http://51.79.39.236:80/renanfds/48793390/618919
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY FHD" tvg-logo="https://img.ip2.digital/playboy.png" group-title="CANAIS | ADULTOS",PLAYBOY FHD
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY HD²" tvg-logo="https://img.ip2.digital/playboy.png" group-title="CANAIS | ADULTOS",PLAYBOY HD²
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/34500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY HD¹" tvg-logo="https://img.ip2.digital/playboy.png" group-title="CANAIS | ADULTOS",PLAYBOY HD¹
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY SD" tvg-logo="https://img.ip2.digital/playboy.png" group-title="CANAIS | ADULTOS",PLAYBOY SD
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/17955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - PLAYBOY US FHD" tvg-logo="https://img.ip2.digital/playboy.png" group-title="CANAIS | ADULTOS",PLAYBOY US FHD
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEX PRIVE FHD" tvg-logo="https://img.ip2.digital/sexprive.png" group-title="CANAIS | ADULTOS",SEX PRIVE FHD
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEX PRIVE HD" tvg-logo="https://img.ip2.digital/sexprive.png" group-title="CANAIS | ADULTOS",SEX PRIVE HD
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36752.m3u8
-#EXTINF:-1 tvg-id="sextreme.brazil.br" tvg-name="XXX - SEXTREME HD²" tvg-logo="https://img.ip2.digital/sextreme.png" group-title="CANAIS | ADULTOS",SEXTREME HD²
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/34521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXY HOT HD²" tvg-logo="https://img.ip2.digital/sexyhot.png" group-title="CANAIS | ADULTOS",SEXY HOT HD²
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXY HOT SD²" tvg-logo="https://img.ip2.digital/sexyhot.png" group-title="CANAIS | ADULTOS",SEXY HOT SD²
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - SEXY HOT SD¹" tvg-logo="https://img.ip2.digital/sexyhot.png" group-title="CANAIS | ADULTOS",SEXY HOT SD¹
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/17978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XXX - VENUS HD" tvg-logo="https://img.ip2.digital/venus.png" group-title="CANAIS | ADULTOS",VENUS HD
-http://brqnt.pro:2082/live/lanny161900/ibo968161900/36703.m3u8
+
+
 
 
 
